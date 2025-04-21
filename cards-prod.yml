@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank cards related production APIs "
+  message: "Welcome to Bank cards related production webhook APIs "
   contactDetails:
     name: "Meetu Agrawal - Cards Product Owner"
     email: "anantkr.jain@bank.com"
