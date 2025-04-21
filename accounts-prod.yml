@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Bank accounts related production APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
+    name: "Anant Kumar Jain - Product Owner"
     email: "{cipher}7b3857dece112a370076263e6454ce4f133f7f8815f22ae02fe984dd58d68e9b58e6ecb3769c371d6b73d19e15762e0b"
   onCallSupport:
     - (453) 392-4829
